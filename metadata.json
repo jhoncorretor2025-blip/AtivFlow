@@ -1,0 +1,6 @@
+{
+  "name": "Gerenciador de Atividades",
+  "description": "Um sistema intuitivo para gerenciar tarefas diárias, com acompanhamento de progresso e status de início.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
